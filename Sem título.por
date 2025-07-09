@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
     inteiro numero
+   //** ímpar ou par */
     escreva(" digite um número inteiro: ")
     leia(numero)
     se(numero%2==0){
